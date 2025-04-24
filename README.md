@@ -23,17 +23,21 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 - Automatizar y personalizar el proceso mediante un sistema basado en IA.
 
 **Descripción de la solución IA:**  
-- **Tecnología empleada:** Modelo de procesamiento de lenguaje natural (NLP).  
+  Realizar una plataforma tradicional que automatice las tareas respectiva y brinde ese autoservicio a los usuarios. En donde el usuario le pueda preguntar a un ChatBot sobre el producto y este lo oriente. 
+- **Tecnología empleada:**
+- Para digitalizar el proceso: BPM (Business Process Management).
+- Para el desarrollo: JavaScript
+- Para la atencion: ChatBots y Asistentes virtuales  
 - **Integración en el flujo:**
   - El sistema recibe la entrada del usuario.
-  - La IA interpreta la intención y genera una respuesta o acción automática.
-  - Intervención humana solo en casos complejos.
+  - La IA procesa la solictud del usuario, se validan los datos y se determina el flujo a seguir.
+  - El usuario recibe respuesta a su solicitud o pregunta.
 
 **Beneficios esperados:**  
-- Mayor velocidad de respuesta.  
+- Mayor eficiencia operativa.  
 - Mejora en la personalización.  
-- Capacidad de aprendizaje continuo.  
-- Reducción de costos operativos.
+- Mejorar la experiencia del usuario.  
+- Reducción de costos a mediano/corto plazo.
 
 ## 4. Comparativa entre Procesos
 
@@ -46,8 +50,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 ## 5. Reflexión Personal
 
-Este ejercicio demuestra que la IA no solo mejora la eficiencia, sino que también permite una mayor adaptabilidad y personalización en los procesos. Sin embargo, es crucial asegurar la calidad de los datos, establecer mecanismos de supervisión humana y considerar las implicaciones éticas de cada implementación.
-
+Este ejercicio me permitio entender que la innovacion no solo consiste en implementar nuevas herramientas, sino en replantear lo que siempre se ha hecho, buscando mejoria constante. Tambien evidencié que mas alla de la costumbre o lo normal, muchas de esas practicas ya no responden a la necesidad o a la demanda actual, ya que requieren eficiencia y sobre todo calidad en el servicio. 
 ---
 
 ## Tiempo Sugerido
